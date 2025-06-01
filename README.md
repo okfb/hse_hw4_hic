@@ -18,11 +18,13 @@
 
 ### Первый файл
 
-![](/screen/4DNFI4HZHGLC.png)
+![4DNFI3EWJW3N ](https://github.com/user-attachments/assets/897fbde6-be09-45f8-84d7-19048edf7ec7)
+
 
 ### Второй файл
 
-![](/screen/4DNFIJPZ4ASS.png)
+![4DNFI79C9HVS ](https://github.com/user-attachments/assets/e5213b81-8b1c-435d-9ec9-b253be5ff8a3)
+
 
 ## Получение информации и атрибутов матрицы Hi-C с помощью cooler.info
 
